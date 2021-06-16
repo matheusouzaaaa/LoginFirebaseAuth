@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244622460938",
+    "project_id": "fir-loginauth-f7641",
+    "storage_bucket": "fir-loginauth-f7641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244622460938:android:b194d79e88c9649c9e37f3",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244622460938-r7r5hje1hrkto6mv8ik7pu0cq86uufen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKvJ7X2cJvg4SFzckntBLAjX_SpHL3zOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244622460938-r7r5hje1hrkto6mv8ik7pu0cq86uufen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
